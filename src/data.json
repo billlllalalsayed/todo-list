@@ -1,0 +1,42 @@
+[{
+    "id": 1,
+    "task": "HTML",
+    "complete": false
+  }, {
+    "id": 2,
+    "task": "CSS",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "HTML5",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "CSS3",
+    "complete": false
+  }, {
+    "id": 5,
+    "task": "Javascript",
+    "complete": false
+  }, {
+    "id": 6,
+    "task": "GIT",
+    "complete": false
+  }, {
+    "id": 7,
+    "task": "Algorithms and Data Structure",
+    "complete": false
+  }, {
+    "id": 8,
+    "task": "Design Patterns and Software Architecture",
+    "complete": false
+  }, {
+    "id": 9,
+    "task": "ES6",
+    "complete": false
+  }, {
+    "id": 10,
+    "task": "React Fundamentals",
+    "complete": false
+  }]
+ 
